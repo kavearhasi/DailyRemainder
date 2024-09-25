@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637617377564",
+    "project_id": "daily-remainder-app",
+    "storage_bucket": "daily-remainder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637617377564:android:ca688c7d2e85d299356ad9",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdbtp_Ds0_WYTi6XNGKjC-uxsJKhJQ7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
